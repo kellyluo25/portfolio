@@ -2,7 +2,7 @@
 
 title: placecards
 description: or, postcards from places (bos, nyc, sf)
-heroimage: /images/placecardframe.jpg
+heroimage: /images/placecards/placecardframe.jpeg
 categories: digital
 tags: 
 dates: jan 2020
