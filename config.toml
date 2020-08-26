@@ -1,4 +1,4 @@
-baseurl = "http://portfolio.kellyluo.me"
+baseurl = "//portfolio.kellyluo.me"
 languageCode = "en-us"
 title = "portfolio"
 author = "kelly luo"
