@@ -10,6 +10,7 @@ externalurl: https://oldportfolio.kellyluo.me/
 date: "{{ .Date }}"
 draft: false
 featured: false
+weight: 5
 
 ---
 

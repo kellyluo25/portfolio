@@ -15,7 +15,7 @@ weight:
 ---
 
 
-![img](https://kellyluo.me)
+[link](https://kellyluo.me)
 
 
 You’ll find this post in your `content/posts` directory.
