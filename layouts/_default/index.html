@@ -21,9 +21,9 @@
         
 <!--if page has direct link elsewhere-->
 {{ if (.Params.externalurl) }}
-    <a href="{{ .Permalink }}">
-{{ else }}
     <a href="{{ .Params.externalurl }}">
+{{ else }}
+    <a href="{{ .Permalink }}">
 {{ end }}
     
     <!---   main title   ---> 
