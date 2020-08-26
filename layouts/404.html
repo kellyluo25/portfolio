@@ -1,7 +1,17 @@
-{{ partial "head" . }}
+{{ define "main" }}
 
-<!-- Add your site or application content here -->
-<h1>Page not found</h1>
-<a href="{{ "/" | relURL }}" title="Back to homepage">Go to the homepage</a>
+{{ partial "header-nav" . }}
+
+<div class="single-post">
+    
+<!-- header-->
+    <div class="noselect post-header">
+        <h2 class="single-title"> 404 </h2>
+        <p class="single-description">sorry, this might not be the right place!</p>
+    </div>
+
+    </div>
 
 {{ partial "footer" . }}
+
+{{ end }}

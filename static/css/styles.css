@@ -533,6 +533,10 @@ h2.single-title {
     font-weight: 400; 
 }
 
+.post-content h5 {
+    margin: 25px auto; 
+}
+
 /* post-content | images */ 
 
 .post-content img {

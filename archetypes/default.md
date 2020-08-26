@@ -10,6 +10,7 @@ externalurl:
 date: "{{ .Date }}"
 draft: false
 featured: true
+weight:
 
 ---
 
