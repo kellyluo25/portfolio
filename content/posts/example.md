@@ -1,7 +1,7 @@
 ---
 
 title: (old) portfolio
-description: portfolio, past tense circa 2018
+description: portfolio, circa 2018
 heroimage: /images/klcircle.png
 categories: web
 tags: 
