@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{ partial "header-nav" . }}
+
+<div class="single-post">
+    
+<!-- header-->
+    <div class="noselect post-header">
+        <h2 class="single-title"> {{ .Title }} </h2>
+        <p class="single-description">{{ .Description }}</p>
+    </div>
+    
+    <div class="post-meta noselect">
+        <p> <span class="post-categories">{{ .Params.Categories }}</span>
+        
+        <!-- if dates --> 
+        {{ if (.Params.dates) }}
+            <span class="post-dates">  • {{ .Params.dates }} </span>
+        {{ end }}
+        </p>
+        
+
+    </div>
+    
+<!--content-->
+    <div class="post-content">
+        <p class="category">{{ .Content }}</p>
+    </div>
+    
+</div>
+
+{{ partial "footer" . }}
+
+{{ end }}

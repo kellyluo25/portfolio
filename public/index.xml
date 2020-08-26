@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kelly luo on portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in kelly luo on portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>more and more</title>
+      <link>http://localhost:1313/posts/examples2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/examples2/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:
+description: only the young outrun the old categories: digital tags: uniquely heroimage: https://images.unsplash.com/photo-1591096490890-3ab2cd685478?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1049&amp;amp;q=80</description>
+    </item>
+    
+    <item>
+      <title>newtimes</title>
+      <link>http://localhost:1313/posts/examples5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/examples5/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:</description>
+    </item>
+    
+    <item>
+      <title>working on this</title>
+      <link>http://localhost:1313/posts/example-copy-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/example-copy-1/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:</description>
+    </item>
+    
+    <item>
+      <title>working on this</title>
+      <link>http://localhost:1313/posts/example-copy-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/example-copy-2/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:</description>
+    </item>
+    
+    <item>
+      <title>working on this</title>
+      <link>http://localhost:1313/posts/example-copy-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/example-copy-3/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:</description>
+    </item>
+    
+    <item>
+      <title>working on this</title>
+      <link>http://localhost:1313/posts/example-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/example-copy/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:</description>
+    </item>
+    
+    <item>
+      <title>working on this</title>
+      <link>http://localhost:1313/posts/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/example/</guid>
+      <description>You’ll find this post in your content/posts directory.
+To add new posts, simply add a file in the content/posts directory that follows the convention name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hugo also offers powerful support for code snippets:
+description: only the young outrun the old categories: digital tags: uniquely heroimage: https://images.unsplash.com/photo-1591096490890-3ab2cd685478?ixlib=rb-1.2.1&amp;amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1049&amp;amp;q=80</description>
+    </item>
+    
+  </channel>
+</rss>

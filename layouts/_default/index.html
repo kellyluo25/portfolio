@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+{{ partial "sidebar" . }}
+
+<article id="ml">
+
+<!-- iterate through data pages --> 
+{{ range .Site.RegularPages }}
+
+    
+<!-- featured vs. regular box --> 
+{{ if (.Params.featured) }}
+    <div class="entry box-featured {{ .Params.categories }} {{ .Params.tags }}"> 
+{{ else }}
+    <div class="entry box {{ .Params.categories }} {{ .Params.tags }}"> 
+{{ end }}
+    
+
+
+<!-- URL --> 
+        
+<!--if page has direct link elsewhere-->
+{{ if (.Params.externalurl) }}
+    <a href="{{ .Permalink }}">
+{{ else }}
+    <a href="{{ .Params.externalurl }}">
+{{ end }}
+    
+    <!---   main title   ---> 
+    <div class="title">
+        
+        <h2> {{ .Title }} </h2>
+       
+    
+    <!---   description text   ---> 
+    <div class="txt">    
+        
+        <!--- category  --->  
+        <p class="category">
+            — {{ .Params.categories }}
+        
+<!--
+            {{ if (.Params.externalurl) }}
+            • LIVE
+            {{ end }}
+-->
+        </p>
+        
+        <!---   description   ---> 
+        <p>{{ .Params.description }}</p>
+              
+        
+    </div>
+    </div>
+        
+        
+    <!---   image   --->  
+    
+    <!-- featured vs. regular img --> 
+{{ if (.Params.featured) }}
+    <div class="photo-featured">
+{{ else }}
+    <div class="photo">
+{{ end }}
+                        
+         <img src="{{ .Params.heroimage }}">
+                     
+    </div>
+          
+    </div>
+</a>
+
+    
+{{ end }}
+    
+</article>
+
+{{ end }}

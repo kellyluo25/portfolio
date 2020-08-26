@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial "head" . }}
+
+<body>    
+    
+
+<section id="wrap">     
+
+    <div id="content">
+      <div class="entry-listing">
+          
+        {{ block "main" . }}{{ end }}
+
+      </div>
+    </div>
+    
+</section>
+
+{{ partial "js" . }}
+    
+</body>
+</html>

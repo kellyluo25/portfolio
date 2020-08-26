@@ -1,0 +1,55 @@
+<!-- NOTE to self: this is deprecated; use index.html instead -->
+
+{{ define "main" }}
+
+<article id="ml">
+
+<!-- iterate through data pages --> 
+{{ range .Data.Pages }}
+    
+<!-- if featured vs. regular box --> 
+{{ if (.Params.featured) }}
+    <div class="entry box-featured {{ .Params.categories }} {{ .Params.tags }}"> 
+{{ else }}
+    <div class="entry box {{ .Params.categories }} {{ .Params.tags }}"> 
+{{ end }}
+                  
+    <!---   main title   ---> 
+    <div class="title">
+        
+        <h2> {{ .Title }} </h2>
+        
+    <!---   description text   ---> 
+    <div class="txt">    
+        {{ .Params.description }}
+              
+        
+<!-- link -->
+        <div class="links">
+            <a href="{{ .Permalink }}">/ LINK</a>
+        </div>
+        
+    </div>
+    </div>
+        
+        
+    <!---   image   --->  
+    <!-- featured vs. regular img --> 
+{{ if (.Params.featured) }}
+    <div class="ph-featured">
+{{ else }}
+    <div class="ph">
+{{ end }}
+                        
+         <img src="{{ .Params.heroimage | relURL }}">
+                     
+    </div>
+          
+    </div>
+
+    
+{{ end }}
+    
+</article>
+
+{{ end }}

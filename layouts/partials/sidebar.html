@@ -1,0 +1,35 @@
+<article id="side">
+    
+<header id="">
+    <!-- page title --> 
+    <a href="/" class="sitetitle"><h1 class="sitetitle">— <br/> {{ .Site.Title }}</h1></a>
+
+    
+    <!-- credits -->
+    <a href="https://kellyluo.me/" class="credit">by kelly luo</a>
+    
+</header>
+    
+<div id="filters">
+                         
+            <!-- group 1 -->
+            <div class="button-group" data-filter-group="group1">
+                
+                <!-- label -->
+<!--                <h4>categories</h4>-->
+                
+                <button class="button active" data-filter=".entry"> all </button>
+                
+                {{ range $key, $value := .Site.Taxonomies.categories }}
+                
+                <!-- categories -->
+                
+                <button class="button" data-filter=" .{{ $key }} "> {{ $key }} </button>
+
+                {{ end }}
+                
+            </div>
+
+    
+    </div>
+</article>
