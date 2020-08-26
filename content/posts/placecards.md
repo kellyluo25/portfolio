@@ -2,7 +2,7 @@
 
 title: placecards
 description: or, postcards from places (bos, nyc, sf)
-heroimage: /images/placecards/placecardframe.jpeg
+heroimage: /images/placecards/placecardframe.jpg
 categories: digital
 tags: 
 dates: jan 2020
@@ -31,3 +31,8 @@ weight: 2
 ![img](/images/placecards/SF_i.jpg)
 ![img](/images/placecards/SF_ii.jpg)
 > —san francisco, ca
+
+
+#####
+
+![img](/images/placecards/placecard-mockup.jpeg)
