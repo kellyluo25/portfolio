@@ -208,6 +208,9 @@
         overflow: hidden;
     }
 
+
+    /* 250 x 300 */
+
     .photo {
         display: block;
         float: right;
@@ -219,7 +222,7 @@
     
     
     .photo img {
-        width: 100%;
+        max-width:100%;
     }
     
     
@@ -233,6 +236,8 @@
         overflow: hidden;
     }
     
+    /* 400 x 300 */
+
     .photo-featured {
         display: block;
         float: right;
