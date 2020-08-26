@@ -301,7 +301,7 @@
     .box.show .title h2 {
         margin-bottom: 100px;
         -webkit-transition:all .2s linear;
-       transition:all .2s linear;
+        transition:all .2s linear;
     }
     
     .box-featured.show .title h2 {
@@ -381,14 +381,14 @@
     
     /* category in box */ 
 
-  .category p {
+p.category {
     color: #ffffff;
     font-weight: 700;
     font-size: 10px;
     text-transform: uppercase; 
     word-spacing: 5px;
     padding-left: 20px;
-    margin-bottom: 15px; 
+    padding-bottom: 15px; 
 }
 
 
