@@ -3,7 +3,8 @@
 * {  box-sizing: border-box; margin: 0; }
     
     html { 
-        margin: 0; overflow-x: hidden; 
+        margin: 0; 
+        overflow: hidden; 
     }
     
     :root {
@@ -272,10 +273,6 @@
     .photo-featured {
         width: 250px;
         }
-        
-     body {
-        overflow-x: hidden
-    }
     }
     
     @media (max-width: 950px) {
