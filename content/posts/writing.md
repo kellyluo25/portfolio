@@ -19,11 +19,12 @@ weight: 3
 
 [all of a sudden i miss everyone](https://blog.kellyluo.me/articles/2020-05/all-of-a-sudden-i-miss-everyone) on leaving campus in march through graduating in may. the most emotionally difficult thing i've ever tried to write.
 
+(this is being continuously updated)
 
 ### MORE
 
 [blog](https://blog.kellyluo.me) for polished pieces and musings
 
-[reading supply](https://reading.supply/@kelly) for published prose and poetry
+[reading supply](https://reading.supply/@kelly) for  prose and poetry
 
 <!--[in-verse](tiny.cc/in-verse) for drafts of words i'm still working on-->
