@@ -1,4 +1,7 @@
 baseurl = "//portfolio.kellyluo.me"
 languageCode = "en-us"
 title = "portfolio"
-author = "kelly luo"
+[params]
+    author = "kelly luo"
+    description = "Hi, I'm Kelly! This is a portfolio of creative projects. I'm a product person and Harvard '20 graduate; an engineer, designer, creator with a love for human stories and experiences."
+    sitetitle = "portfolio — kelly luo"
