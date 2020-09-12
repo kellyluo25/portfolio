@@ -29,14 +29,14 @@
     <meta property="og:url" content="https://kellyluo.me/">
     <meta property="og:title" content="{{ if .IsHome }}{{ $.Site.Params.sitetitle }} {{ else }} {{ .Page.Title }} — portfolio by kelly luo {{ end }}">
     <meta property="og:description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
-    <meta property="og:image" content="{{ if $.Page.Params.heroimage }}{{ $.Page.Params.heroimage | absURL }} {{ else }}https://portfolio.kellyluo.me/images/retrospect.jpg{{ end }}">
+    <meta property="og:image" content="{{ if $.Page.Params.heroimage }}{{ $.Page.Params.heroimage | absURL }}{{ else }}https://portfolio.kellyluo.me/images/retrospect.jpg{{end}}">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://kellyluo.me/">
     <meta property="twitter:title" content="{{ if .IsHome }}{{ $.Site.Params.sitetitle }} {{ else }} {{ .Page.Title }} — portfolio by kelly luo {{ end }}">
     <meta property="twitter:description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
-    <meta property="twitter:image" content="{{ if $.Page.Params.heroimage }}{{ $.Page.Params.heroimage | absURL }} {{ else }}https://portfolio.kellyluo.me/images/retrospect.jpg{{ end }}">
+    <meta property="twitter:image" content="{{ if $.Page.Params.heroimage }}{{ $.Page.Params.heroimage | absURL }}{{ else }}https://portfolio.kellyluo.me/images/retrospect.jpg{{end}}">
     
     <!-- css -->
     <link href="{{ "css/styles.css" | relURL}}" rel="stylesheet" />
