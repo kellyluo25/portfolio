@@ -1,4 +1,4 @@
-/*for updates*/
+/*older*/
 
 * {  box-sizing: border-box; margin: 0; }
     
@@ -56,17 +56,33 @@
     }
     
     
-    a { 
-        text-decoration: none; 
-        color:#000; 
-     -webkit-transition:all .2s linear;
-       transition:all .2s linear;  
+a { 
+    text-decoration: none; 
+    color:#000; 
+    -webkit-transition:all .2s linear;
+    transition:all .2s linear;  
 }
     
-    a:hover { 
-        color:#666;
-        -webkit-transition:all .2s linear;
+a:hover { 
+    color:#666;
+    -webkit-transition:all .2s linear;
+    transition:all .2s linear;  
+}
+
+.post-content a {
+    text-decoration: none; 
+    color: #999999; 
+      -webkit-transition:all .2s linear;
        transition:all .2s linear;  
+         background-image: linear-gradient(transparent 0, rgba(240, 211, 98,0.25) 0);
+	background-position-y: .75em;
+	background-repeat: no-repeat;
+	transition: background-position .25s ease-in-out;
+}
+
+.post-content a:hover { 
+    color: #666; 
+    background-position: 0; 
 }
 
 
