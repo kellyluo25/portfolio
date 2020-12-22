@@ -2,7 +2,7 @@
 
 title: scrapbook
 description: the stories i'm paying attention to this year 💖
-heroimage: /images/scrapbook_header.jpg
+heroimage: /images/scrapbook.png
 categories: web
 tags: 
 dates:
