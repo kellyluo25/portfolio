@@ -14,6 +14,10 @@ weight: 3
 
 ---
 
+[notes on a worldview](https://blog.kellyluo.me/2020-12/seminal-ideas-and-more), the seminal influences that have made me who i am
+
+<br />
+
 [what i've spent my whole life trying to put into words](https://blog.kellyluo.me/2020-11/putting-into-words), and i’m still looking for the words to say the things i mean; someday soon, i may find them.
 
 [the last time the internet was the only place that mattered to us](https://blog.kellyluo.me/2020-11/only-the-internet-matters), and how it reminds you of another time in your life when online was the only thing that mattered.
