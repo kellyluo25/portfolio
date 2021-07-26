@@ -14,17 +14,24 @@ weight: 3
 
 ---
 
+[what i've spent my whole life trying to put into words](https://blog.kellyluo.me/2020-11/putting-into-words), and i’m still looking for the words to say the things i mean; someday soon, i may find them.
 
-[tell me something i don't know](https://reading.supply/@kelly/tell-me-something-i-dont-already-know-hGzs5s), what i've spent my life trying to put into words
+[the last time the internet was the only place that mattered to us](https://blog.kellyluo.me/2020-11/only-the-internet-matters), and how it reminds you of another time in your life when online was the only thing that mattered.
+
+[tell me something i don't know](https://reading.supply/@kelly/tell-me-something-i-dont-already-know-hGzs5s), the things i keep writing the same versions of.
+
+[happy, free, confused, and lonely (in the best way)](https://blog.kellyluo.me/2020-12/how-old-are-we-really), on turning twenty-two in the worst year in memory.
 
 [all of a sudden i miss everyone](https://blog.kellyluo.me/articles/2020-05/all-of-a-sudden-i-miss-everyone) on leaving campus in march through graduating in may. the most emotionally difficult thing i've ever tried to write.
 
-(this is being continuously updated)
+(✨ continuously updated)
+
+
 
 ### MORE
 
 [blog](https://blog.kellyluo.me) for polished pieces and musings
 
-[reading supply](https://reading.supply/@kelly) for  prose and poetry
+[reading supply](https://reading.supply/@kelly) for prose and poetry
 
-<!--[in-verse](tiny.cc/in-verse) for drafts of words i'm still working on-->
+[in-verse](tiny.cc/in-verse), for drafts i'll never publish
